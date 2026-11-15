@@ -1,5 +1,9 @@
 # btc-cent-forecast-01 — Damped Short-Horizon Momentum Ensemble
 
+[![make.fun · btc-cent-forecast-01](https://make.fun/badge/btc-cent-forecast-01.svg)](https://make.fun/bounty/btc-cent-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
+[![rank](https://make.fun/badge/btc-cent-forecast-01/xbaystore/btc-cent-forecast-01/rank.svg)](https://make.fun/bounty/btc-cent-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
+[![reward](https://make.fun/badge/btc-cent-forecast-01/xbaystore/btc-cent-forecast-01/reward.svg)](https://make.fun/bounty/btc-cent-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=btc-cent-forecast-01)
+
 Forecast Bitcoin's price 240 minutes after each checkpoint, from the 4,320
 one-minute closes (72 hours) the case gives you. Standard library only,
 deterministic, offline, well inside the 8-second per-case cap.
